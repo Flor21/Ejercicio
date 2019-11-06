@@ -6,6 +6,6 @@ Sherlock considera que una cadena es válida si todos los caracteres de la caden
 
 ## Comando para ejecutar el archivo
 
-``` javac ValidarString.java
+```javac ValidarString.java
 java ValidarString
 ```
